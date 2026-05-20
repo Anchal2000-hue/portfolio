@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects, skills, and experience as a full-stack developer.
 
-🔴 Live: https://anchaltiwari.netlify.app
+🔴 **Live:** [https://anchaltiwari.netlify.app](https://anchaltiwari.netlify.app)
 
 ## ✨ Features
 
@@ -40,11 +40,11 @@ My personal portfolio website showcasing my projects, skills, and experience as 
 
 ## 👩‍💻 Author
 
-Anchal Tiwari
-GitHub: https://github.com/Anchal2000-hue
-LinkedIn: https://www.linkedin.com/in/anchal-tiwari-b85b642a0
-Email: at492596@gmail.com
+**Anchal Tiwari**
+- GitHub: [Anchal2000-hue](https://github.com/Anchal2000-hue)
+- LinkedIn: [anchal-tiwari](https://www.linkedin.com/in/anchal-tiwari-b85b642a0)
+- Email: at492596@gmail.com
 
 ---
 
-Final-year CS student · Ex-intern at Sunsys Infotech · Open to full-time opportunities
+*Final-year CS student · Ex-intern at Sunsys Infotech · Open to full-time opportunities*
